@@ -1,0 +1,16 @@
+{
+  "name": "mudil-mathur-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website of Mudil Mathur - CSE Student at Chandigarh University (Data Analytics & Data Science)",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
